@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+* music
+* movies
+* food
+  * pizza
+  * tacos
+  * brisket
+* computers
